@@ -12,3 +12,4 @@ dist/
 /query.txt
 /result.txt
 /test.py
+/.env
